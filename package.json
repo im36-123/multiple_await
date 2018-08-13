@@ -1,0 +1,14 @@
+{
+  "name": "multiple_await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "author": "im36-123",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
